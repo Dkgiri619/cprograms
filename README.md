@@ -1,9 +1,7 @@
 ## This are my first C Programs
 ***I am a beginner to coding, happy learning***
 
-<!--
-$ gcc [program name]
->
-<!--
+```bash
+$ gcc [filename.c]
 $ ./a.out
->
+```
